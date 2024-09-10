@@ -43,3 +43,4 @@ Bike Sales Dashboard
 •	Provide a detailed overview of customer profiles and their influence on bike sales.
 •	Enable easy and interactive data analysis to identify key trends and patterns.
 •	Support data-driven decision-making for marketing strategies and sales initiatives.
+https://github.com/shani8491/BikeSalesAnalysis/issues/1#issue-2516223165
